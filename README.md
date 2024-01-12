@@ -2,13 +2,11 @@
 - SAIFUL NUR BUDIMAN, S.Kom., M.Kom
 ## MATA KULIAH
 - Pemrograman Web Lanjut
-## Laravel Employee Payroll (UAS) 
-## KELOMPOK 4
+## KELOMPOK 3
 - Muhammad Arbi Yoganata	21104410073
 - Muhammad Rizal Razaan	21104410061
 - Arni Nazira				21104410077
-
- 
+## Laravel Employee Payroll (UAS) 
 - Ini adalah aplikasi manajemen penggajian karyawan yang dikodekan dalam laravel.misalkan jika Anda membutuhkan solusi untuk mengelola jumlah karyawan yang tinggi di industri berlian Anda, maka ini akan menjadi penghemat waktu bagi Anda.
 
 ## Installation (Local)
